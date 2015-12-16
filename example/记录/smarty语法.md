@@ -17,6 +17,7 @@ Smarty语法：
 	${string.nl2br()}	//转换字符串中的回车为<br>
 	${list.size().pluralize()}	//自动判断是否显示单词中表示复数的s
 	${list[-1]}	//-1为获得列表中最后一个对象
+	${comment.postedAt.format('dd MMM yy')}	//格式化日期
 
 **3.逻辑操作**
 
