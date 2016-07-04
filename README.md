@@ -65,3 +65,7 @@ Playframework命令：
 
 这里因为在页面中有访问google的内容，因此最好事先在本地的hosts中把www.google.com的域名定向到本地。
 
+
+
+
+AccountingForm[N[Table[CDF[PoissonDistribution[4], i], {i, 1, 9}], 20]*2^32]
